@@ -42,14 +42,14 @@ const Footer = () => {
                 </div>
               </div> */}
               {/* Social handles */}
-              <Link
+              {/* <Link
                 className="flex items-center gap-1 justify-center"
                 href={"https://www.facebook.com/profile.php?id=61565494418337"}
                 aria-label="Facebook"
               >
                 <FaFacebook className="text-black" />
                 Facebook page
-              </Link>
+              </Link> */}
               <Link className="flex items-center gap-1 mt-3" href="/">
                 <FaGlobeAmericas />
                 https://mapleleafcleanersplus.com

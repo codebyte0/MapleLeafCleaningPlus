@@ -65,6 +65,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         {/* Google Tag Manager Script */}
         {/* <Script
           id="gtag-js"
+          
           strategy="afterInteractive"
           src="https://www.googletagmanager.com/gtag/js?id=G-WLZMXYBEE1"
         /> */}
